@@ -57,5 +57,7 @@ A push switch (button) is a momentary or non-latching switch which causes a temp
 
 ![image](https://user-images.githubusercontent.com/78298653/168017072-34f4a8c7-a67a-42bf-8e98-05607bf7e2ec.png)
 
+## RESULT 
 
+When the wiper  switch is in the off position, the wiper will not function. When the wiper switch is in low-speed mode, the wiper will work at low speed. Accordingly, when the wiper switch is in high-speed mode, the wiper will work at a fairly high 
 
