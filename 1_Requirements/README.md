@@ -30,6 +30,9 @@
  ## THREATS
    1. Noise occurs due to slackness or tightness of the mechanical drive system. Also it occurs when the moving parts in the linkage come in contact with other parts         such as the metal tubing of the screen washer tube.
    2. When noise is not found through a visual inspection, then each part is checked independently Flexible racks are checked for tightness, and also the force               required to move the rack through the tube is measured when it is disconnected from the motor and wheel-box. A maximum force of 27 N is a typical value.
+ ## SOFTWARE USED
  
+   1.STM32F
+   2.QEMU SOFTWARE
  
  
